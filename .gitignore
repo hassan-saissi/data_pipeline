@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+target/
+duck_packages/
+*.duckdb
+
